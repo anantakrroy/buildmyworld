@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/workspace/myworldrobot/script/hello.cpp
+/home/workspace/buildmyworld/myworldrobot/script/hello.cpp
 gazebo/gazebo.hh
 -
 
