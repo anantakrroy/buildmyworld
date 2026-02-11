@@ -1,3 +1,0 @@
-/home/workspace/buildmyworld/myworldrobot/build/CMakeFiles/rebuild_cache.dir
-/home/workspace/buildmyworld/myworldrobot/build/CMakeFiles/edit_cache.dir
-/home/workspace/buildmyworld/myworldrobot/build/CMakeFiles/hello.dir
